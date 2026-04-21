@@ -6,7 +6,7 @@
 // ── CONFIGURACIÓN ─────────────────────────────────────────────────────────────
 // Cambiá este valor por el ID de tu Google Sheet
 // Lo encontrás en la URL: docs.google.com/spreadsheets/d/[ESTE_ES_EL_ID]/edit
-const SHEET_ID = "https://script.google.com/macros/s/AKfycbzGti7LrXAAMocHHADr1a-Kk__yYh4yYdB-EwRwblTZILYzM8MfiKu-QcvZSEI2Sv3V/exec";
+const SHEET_ID = "https://script.google.com/macros/s/AKfycbyRbFclb7AT8xwqOR3KaNTGdjpLjGduLEsEVTKshih7f-jZvCs1Iixu1apDgtwrloNg/exec";
 
 // ── HOJAS DE CÁLCULO ──────────────────────────────────────────────────────────
 const HOJA_VIAJES   = "Viajes";        // estado actual de cada viaje
